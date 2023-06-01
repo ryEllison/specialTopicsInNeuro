@@ -5,7 +5,7 @@
 
 ### Tentative Schedule
 
-**Week 1. Biophysical and reduced neuronal models (6/1)**  
+**Week 1. Biophysical and reduced neuronal models (6/2)**  
 Tasks: Construct Izhikevich neuron model
 
 **Week 2. Parameter search and optimization methodologies (6/8)**  
