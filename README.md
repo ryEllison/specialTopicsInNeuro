@@ -1,5 +1,5 @@
 
-<img src="../rmd/fts/hex.png" width="22.5%" height="22.5%" style="display: block; margin: auto;" />
+<img src="./rmd/fts/hex.png" width="22.5%" height="22.5%" style="display: block; margin: auto;" />
 
 ## From-scratch derivation of artifical neural network for simulated neuron activity classification
 

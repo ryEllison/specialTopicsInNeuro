@@ -34,7 +34,7 @@ for (i in dependencies){
 font_add_google('Righteous', 'text')
 showtext_auto()
 
-sticker('../rmd/fts/ann.jpg', 
+sticker('./rmd/fts/ann.jpg', 
         package = 'specialTopicsInNeuro',
         p_size = 70,
         p_family = 'text',
@@ -46,10 +46,10 @@ sticker('../rmd/fts/ann.jpg',
         s_y = .75,
         s_width =  .40,
         s_height = .50,
-        filename = '../rmd/fts/hex.png',
+        filename = './rmd/fts/hex.png',
         dpi = 2000)
 
-include_graphics('../rmd/fts/hex.png')
+include_graphics('./rmd/fts/hex.png')
 
 ```
 
