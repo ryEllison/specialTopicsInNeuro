@@ -1,3 +1,4 @@
 # Ignore these subdirectories
 admin/
 .ipynb_checkpoints/
+.virtual_documents/
