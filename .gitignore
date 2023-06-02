@@ -2,3 +2,8 @@
 admin/
 .ipynb_checkpoints/
 .virtual_documents/
+
+# Ignore specific files
+material/week1/.ipynb_checkpoints
+material/week1/.virtual_documents/
+material/week1/solutionsNotebook.ipynb
