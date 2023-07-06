@@ -6,3 +6,7 @@ admin/
 # Ignore specific files in week 1
 material/week1/.ipynb_checkpoints/
 material/week1/.virtual_documents/
+
+# Ignore specific files in week 1
+material/week2/.ipynb_checkpoints/
+material/week2/.virtual_documents/
