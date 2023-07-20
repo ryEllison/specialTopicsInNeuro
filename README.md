@@ -37,3 +37,5 @@ Tasks: Continue computational implementation of mathematical ANN model
 **Week 10. EXTRA TIME (8/3)**
 
 **Week 11. EXTRA TIME (8/10)**
+
+NOTE: Simulated data not included in repo
