@@ -6,7 +6,15 @@ admin/
 # Ignore specific files in week 1
 material/week1/.ipynb_checkpoints/
 material/week1/.virtual_documents/
+material/week1/data/archive/
 
-# Ignore specific files in week 1
+# Ignore specific files in week 2
 material/week2/.ipynb_checkpoints/
 material/week2/.virtual_documents/
+material/week2/data/archive/
+
+# Ignore specific files in week 2
+material/week3/.ipynb_checkpoints/
+material/week3/.virtual_documents/
+material/week3/data/archive/
+material/week3/data/batchedData/

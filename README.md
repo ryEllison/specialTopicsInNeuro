@@ -34,6 +34,6 @@ Tasks: Continue computational implementation of mathematical ANN model
 
 **Week 9. EXTRA TIME (7/27)**
 
-**Week 10. EXTRA TIME (8/23)**
+**Week 10. EXTRA TIME (8/3)**
 
 **Week 11. EXTRA TIME (8/10)**
