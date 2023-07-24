@@ -13,8 +13,17 @@ material/week2/.ipynb_checkpoints/
 material/week2/.virtual_documents/
 material/week2/data/archive/
 
-# Ignore specific files in week 2
+# Ignore specific files in week 3
 material/week3/.ipynb_checkpoints/
 material/week3/.virtual_documents/
 material/week3/data/archive/
 material/week3/data/batchedData/
+material/week3/assignment/.ipynb_checkpoints/
+material/week3/assignment/solutionsNotebook.ipynb
+
+# Ignore specific files in week 4
+# material/week4/.ipynb_checkpoints/
+# material/week4/.virtual_documents/
+# material/week4/data/archive/
+# material/week4/data/batchedData/
+material/week4/
