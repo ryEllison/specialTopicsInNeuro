@@ -22,8 +22,7 @@ material/week3/assignment/.ipynb_checkpoints/
 material/week3/assignment/solutionsNotebook.ipynb
 
 # Ignore specific files in week 4
-# material/week4/.ipynb_checkpoints/
-# material/week4/.virtual_documents/
-# material/week4/data/archive/
-# material/week4/data/batchedData/
-material/week4/
+material/week4/.ipynb_checkpoints/
+material/week4/.virtual_documents/
+material/week4/data/archive/
+material/week4/data/batchedData/
